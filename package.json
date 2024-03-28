@@ -1,0 +1,13 @@
+{
+  "name": "Car-template",
+  "description": "template for Car",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/sponsors/qpssoft"
+  },
+  "author": "Quang Pham (https://github.com/qpssoft)",
+  "contributors": [
+    "Quang Pham (https://github.com/sponsors/qpssoft)"
+  ],
+  "license": "MIT"
+}
